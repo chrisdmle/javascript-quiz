@@ -1,0 +1,15 @@
+#welcome, #quiz, #inputScore, #highScores {
+    width: 80%;
+}
+
+#quiz, #inputScore, #highScores {
+    display: none;
+    cursor: pointer;
+}
+
+#viewScores {
+    cursor: pointer;
+}
+.jumbotron {
+    background-color: white;
+}
