@@ -16,5 +16,6 @@ THEN the game is over<br>
 WHEN the game is over<br>
 THEN I can save my initials and score<br>
 
-Link to deployed application:
-GIF of Application:
+Link to deployed application:https://chrisdmle.github.io/javascript-quiz/ <br>
+
+GIF of Application: https://im5.ezgif.com/tmp/ezgif-5-d3f41d28e6.gif
