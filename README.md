@@ -18,4 +18,5 @@ THEN I can save my initials and score<br>
 
 Link to deployed application:https://chrisdmle.github.io/javascript-quiz/ <br>
 
-GIF of Application: https://im5.ezgif.com/tmp/ezgif-5-d3f41d28e6.gif
+GIF of Application:
+![ezgif-5-d3f41d28e6](https://user-images.githubusercontent.com/107082980/176742735-155cf14b-fe4a-4f43-95f1-bf2ca124f078.gif)
